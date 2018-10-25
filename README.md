@@ -1,4 +1,4 @@
-# udemy-bash-shell
+# udemy-bash-shell-scripting
 
 Este repositório contém todas as atividades realizadas durante o [Udemy] Bash Shell Scripting Tutorial for Beginners.
 
