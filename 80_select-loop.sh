@@ -22,5 +22,6 @@ do
       ;;
     * )
       echo "Error please provide the no. between 1..4"
+      ;;
   esac
 done 
